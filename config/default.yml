@@ -2,14 +2,14 @@ server:
   port: 3000
 application:
   domain: juice-sh.op
-  name: 'OWASP Juice Shop'
+  name: 'Trantor Juice Shop'
   logo: JuiceShop_Logo.png
   favicon: favicon_js.ico
   theme: bluegrey-lightgreen # Options: bluegrey-lightgreen blue-lightblue deeppurple-amber indigo-pink pink-bluegrey purple-green deeporange-indigo
   showChallengeSolvedNotifications: true
   showChallengeHints: true
   showVersionNumber: true
-  showGitHubLinks: true
+  showGitHubLinks: false
   numberOfRandomFakeUsers: 0
   twitterUrl: 'https://twitter.com/owasp_juiceshop'
   facebookUrl: 'https://www.facebook.com/owasp.juiceshop'
