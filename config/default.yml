@@ -11,10 +11,10 @@ application:
   showVersionNumber: true
   showGitHubLinks: false
   numberOfRandomFakeUsers: 0
-  twitterUrl: 'https://twitter.com/owasp_juiceshop'
-  facebookUrl: 'https://www.facebook.com/owasp.juiceshop'
+  twitterUrl: 'https://twitter.com/owasp'
+  facebookUrl: 'https://www.facebook.com/owasp'
   slackUrl: 'http://owaspslack.com'
-  redditUrl: 'https://www.reddit.com/r/owasp_juiceshop'
+  redditUrl: 'https://www.reddit.com/r/owasp'
   pressKitUrl: 'https://github.com/OWASP/owasp-swag/tree/master/projects/juice-shop'
   planetOverlayMap: orangemap2k.jpg
   planetName: Orangeuze
@@ -24,8 +24,8 @@ application:
   altcoinName: Juicycoin
   welcomeBanner:
     showOnFirstStart: true
-    title: 'Welcome to OWASP Juice Shop!'
-    message: "<p>Being a web application with a vast number of intended security vulnerabilities, the <strong>OWASP Juice Shop</strong> is supposed to be the opposite of a best practice or template application for web developers: It is an awareness, training, demonstration and exercise tool for security risks in modern web applications. The <strong>OWASP Juice Shop</strong> is an open-source project hosted by the non-profit <a href='https://owasp.org' target='_blank'>Open Web Application Security Project (OWASP)</a> and is developed and maintained by volunteers. Check out the link below for more information and documentation on the project.</p><h1><a href='https://owasp-juice.shop' target='_blank'>https://owasp-juice.shop</a></h1>"
+    title: 'Welcome to Null Humla!'
+    message: "<p>Being a web application with a vast number of intended security vulnerabilities, this application is supposed to be the opposite of a best practice or template application for web developers: It is an awareness, training, demonstration and exercise tool for security risks in modern web applications."
   cookieConsent:
     backgroundColor: '#546e7a'
     textColor: '#ffffff'
@@ -35,9 +35,9 @@ application:
     dismissText: 'Me want it!'
     linkText: 'But me wait!'
     linkUrl: 'https://www.youtube.com/watch?v=9PnbKL3wuH4'
-  privacyContactEmail: donotreply@owasp-juice.shop
+  privacyContactEmail: donotreply@owasp.org
   securityTxt:
-    contact: 'mailto:donotreply@owasp-juice.shop'
+    contact: 'mailto:donotreply@owasp.org'
     encryption: 'https://keybase.io/bkimminich/pgp_keys.asc?fingerprint=19c01cb7157e4645e9e2c863062a85a8cbfbdcda'
     acknowledgements: '/#/score-board'
   promotion:
