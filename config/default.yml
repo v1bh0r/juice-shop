@@ -2,7 +2,7 @@ server:
   port: 3000
 application:
   domain: juice-sh.op
-  name: 'Trantor Juice Shop'
+  name: 'Null CHD Humla'
   logo: JuiceShop_Logo.png
   favicon: favicon_js.ico
   theme: bluegrey-lightgreen # Options: bluegrey-lightgreen blue-lightblue deeppurple-amber indigo-pink pink-bluegrey purple-green deeporange-indigo
